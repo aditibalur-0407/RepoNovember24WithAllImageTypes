@@ -5,6 +5,9 @@
    
 ![Logo](./Images/communities.png)
 
+3. Absolute raw content URL
+   
+https://raw.githubusercontent.com/aditibalur-0407/RepoNovember24WithAllImageTypes/main/Images/communities.png
 
 
 
