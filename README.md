@@ -7,7 +7,7 @@
 
 3. Absolute raw content URL
 
-![Communities logo](https://raw.githubusercontent.com/aditibalur0407/RepoNovember24WithAllImageTypes/main/Images/communities.png)
+![Communities logo](https://raw.githubusercontent.com/aditibalur-0407/RepoNovember24WithAllImageTypes/main/Images/communities.png)
    
 
 
