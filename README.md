@@ -26,4 +26,4 @@
 
 7. Video Embedd
 
-[![Watch the demo](./images/video-thumbnail.png)](https://youtu.be/xxxxxxxxxxx)
+[![Watch the demo](./Images/communities.png)](https://youtube.com)
