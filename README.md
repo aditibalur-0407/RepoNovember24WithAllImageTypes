@@ -9,7 +9,10 @@
 
 ![Communities logo](https://raw.githubusercontent.com/aditibalur-0407/RepoNovember24WithAllImageTypes/main/Images/communities.png)
    
+4. HTML <img> tag (with sizing attributes)
 
+<img src="./images/communities.png" alt="CommunitiesLogo" width="600" />
+   
 
 
 
