@@ -24,3 +24,6 @@
 ![Feature demo](./Images/feature-demo.gif)
    
 
+7. Video Embedd
+
+[![Watch the demo](./images/video-thumbnail.png)](https://youtu.be/xxxxxxxxxxx)
