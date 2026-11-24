@@ -11,7 +11,7 @@
    
 4. HTML <img> tag (with sizing attributes)
 
-<img src="./images/communities.png" alt="CommunitiesLogo" width="600" />
+<img src="./Images/communities.png" alt="CommunitiesLogo" width="600" />
    
 
 
