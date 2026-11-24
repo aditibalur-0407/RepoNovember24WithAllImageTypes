@@ -3,7 +3,7 @@
 
 2. Relative path of file
    
-![Logo](./images/communities.png)
+![Logo](./Images/communities.png)
 
 
 
