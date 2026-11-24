@@ -3,7 +3,7 @@
 
 2. Relative path of file
    
-![alt](images/communities.png)
+![Logo](./images/communities.png)
 
 
 
