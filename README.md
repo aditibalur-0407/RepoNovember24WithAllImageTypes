@@ -14,5 +14,13 @@
 <img src="./Images/communities.png" alt="CommunitiesLogo" width="600" />
    
 
+5. Badges / dynamically generated images (shields.io)
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+6. GIF- Animated GIF for demo/preview
+
+![Feature demo](./Images/feature-demo.gif)
+   
 
